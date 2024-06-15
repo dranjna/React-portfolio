@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+@font-face {
+  font-family: "KaushanScript";
+  src: local("KaushanScript"),
+       url("../public//font/Kaushan_Script/KaushanScript-Regular.ttf") format("truetype");
+  font-weight: bold;
+}
+@font-face {
+  font-family: "spacemonoRegular";
+  src: local("spacemonoRegular"),
+       url("../public//font/Space_Mono/SpaceMono-Regular.ttf") format("truetype");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "spacemonoBold";
+  src: local("spacemonoBold"),
+       url("../public//font/Space_Mono/SpaceMono-Bold.ttf") format("truetype");
+  font-weight: bold;
+}
+ 
