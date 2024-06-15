@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-portfolio/static/css/main.2e8fb1dc.css",
+    "main.js": "/React-portfolio/static/js/main.bd77dc41.js",
+    "static/js/453.1407b060.chunk.js": "/React-portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/KaushanScript-Regular.ttf": "/React-portfolio/static/media/KaushanScript-Regular.a668b3d996f7c50fb3fe.ttf",
+    "static/media/contact.jpeg": "/React-portfolio/static/media/contact.a4c31829d46be52493b2.jpeg",
+    "static/media/SpaceMono-Regular.ttf": "/React-portfolio/static/media/SpaceMono-Regular.8a2aa304d0bd5e41d186.ttf",
+    "static/media/SpaceMono-Bold.ttf": "/React-portfolio/static/media/SpaceMono-Bold.056ac3ebe5f65cb5c4ac.ttf",
+    "static/media/cover-bg.jpeg": "/React-portfolio/static/media/cover-bg.87fe604e2d258af00dd1.jpeg",
+    "static/media/ranjnaImg.jpeg": "/React-portfolio/static/media/ranjnaImg.a122af5b412ca79d8751.jpeg",
+    "static/media/logo.svg": "/React-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/React-portfolio/index.html",
+    "main.2e8fb1dc.css.map": "/React-portfolio/static/css/main.2e8fb1dc.css.map",
+    "main.bd77dc41.js.map": "/React-portfolio/static/js/main.bd77dc41.js.map",
+    "453.1407b060.chunk.js.map": "/React-portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e8fb1dc.css",
+    "static/js/main.bd77dc41.js"
+  ]
+}
